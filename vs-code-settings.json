@@ -1,0 +1,114 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "jupyter.askForKernelRestart": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "window.commandCenter": false,
+    "explorer.confirmDelete": false,
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.activityBar.location": "top",
+    "githubPullRequests.createOnPublishBranch": "never",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "window.zoomLevel": 1,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "python": false
+    },
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "remote.autoForwardPortsSource": "hybrid",
+    "editor.largeFileOptimizations": false,
+    "editor.accessibilitySupport": "off",
+    "workbench.iconTheme": "vscode-icons",
+    "git.ignoreRebaseWarning": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "todo-tree.highlights.enabled": false,
+    "todo-tree.highlights.customHighlight": {
+        "BUG": {
+            "icon": "bug"
+        },
+        "HACK": {
+            "icon": "tools"
+        },
+        "FIXME": {
+            "icon": "flame"
+        },
+        "XXX": {
+            "icon": "x"
+        },
+        "[ ]": {
+            "icon": "issue-draft"
+        },
+        "[x]": {
+            "icon": "issue-closed"
+        }
+    },
+    "codesnap.transparentBackground": true,
+    "workbench.colorTheme": "Default Dark+",
+    "files.associations": {
+        "*.toml": "toml"
+    },
+    "workbench.colorCustomizations": {
+        
+        // StatusBar
+        "statusBar.background": "#303030",
+        "statusBar.border": "#404040",
+        "statusBarItem.remoteBackground": "#303030",
+        "statusBar.debuggingBackground": "#021fae8d",
+        "statusBar.noFolderBackground": "#303030",
+
+        // SideBar
+        "sideBar.background": "#2A2A2A",
+        "sideBar.border": "#404040",
+        
+        // Terminal
+        "terminal.background": "#151515",
+        "terminal.foreground": "#20d020",
+
+        // Removing Scrollbars
+        "scrollbarSlider.background": "#00000000",
+        "scrollbarSlider.hoverBackground": "#00000000",
+        "scrollbarSlider.activeBackground": "#00000000",
+
+        // Editor Selection
+        "editor.selectionBackground": "#505050",
+        "editor.selectionHighlightBackground": "#707070A0",
+    },
+    "workbench.panel.defaultLocation": "right",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "cSpell.userWords": [
+        "Dawid",
+        "Siera",
+        "Decorify",
+        "Explainability",
+        "hyperparameters",
+        "qubits",
+        "Typehints"
+    ],
+    "latex-workshop.intellisense.biblatexJSON.replace": {
+    },
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "autopep8.args": [
+        "--max-line-length=140"
+    ],
+    "window.customTitleBarVisibility": "windowed",
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "githubPullRequests.pullBranch": "never",
+    "workbench.editor.showTabs": "single",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "workbench.panel.showLabels": false,
+    "editor.foldingHighlight": false,
+    "svelte.enable-ts-plugin": true,
+}
