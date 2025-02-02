@@ -51,7 +51,10 @@
 </table>
 </div>
 
+<details>
+<summary align="center">
 <h2 align="center"> 🏆 Interesting Projects 🏆 </h2>
+</summary>
 
 <h3 align="center">
 
@@ -87,6 +90,8 @@
 - **Role**: Author  
 - **Description**: TorchBoard is a dashboard application adding new interactive experience for learning process of pytorch models, providing user with such functionalities, as changing hyperparameters during the training process, with minimalistic integration to current project.
 - **Current Status**: Actively developing new features and improving existing ones, library available on PyPI.
+
+</details>
 
 ---
 
