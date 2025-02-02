@@ -1,9 +1,6 @@
 <h1 align="center"> 👋 Welcome to My GitHub Profile!</h1>
 
-<h2 align="center">
-
-$$Hi,\space I'm \space {\color{red}Dawid} $$
-</h2>
+<h2 align="center"> Hi, I'm Dawid </h2>
 
 - Studying **Artificial Intelligence**
 - Working as **Quantum Software Developer**
@@ -14,6 +11,45 @@ $$Hi,\space I'm \space {\color{red}Dawid} $$
 - 🐍 **Python Developer**: I love Python, for it's flexibility and possibilities, even if it's done in weird way sometimes. I believe there is nothing that you cannot do in one line, if you disagree, try me :D
 - 🌟 **ML Enthusiast**: Finding some interesting pattern's or just solving problems without overthinking for heuristics. Machine Learning is so fun that automating it with AutoML is truly moral dilemma.
 - 🎨 **Data Visualization + Explainability**: Yea, I just think that it's more important to understand the problem, and understand why something is happening than just getting the right answer.
+
+<h3 align="center">💻 Languages and Tools 💻</h3>
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="torch" />
+      <br>Pytorch
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="100"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
+      <br>Apple
+    </td>
+  </tr>
+</table>
+</div>
 
 <h2 align="center"> 🏆 Interesting Projects 🏆 </h2>
 
@@ -71,55 +107,3 @@ Docstring describes much more than many comments. Everything can be explained as
 <h2 align="center"> 📫 Let’s Connect! 📫 </h2>
 
 If anyone reading this is interested in collaborating on some project, or just want to talk or meet, feel free to write to me :D
-
-<h3 align="center">💻 Languages and Tools 💻</h3>
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
-      <br>Python
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="torch" />
-      <br>Pytorch
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="100"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>Github
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
-      <br>Linux
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
-      <br>Apple
-    </td>
-  </tr>
-</table>
-<br><br>
-</div>
